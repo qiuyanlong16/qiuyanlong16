@@ -30,3 +30,25 @@
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qiuyanlong16&theme=dracula" alt="Profile Details" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=qiuyanlong16&theme=dracula" alt="Contribution Stats" />
 </div>
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=black" alt="Rust" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,rust,python,cs,react,vue,nextjs,webpack,git,docker,linux&theme=dark" alt="Tech Stack Icons" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Frontend-React_/_Vue_/_Next.js-61DAFB?style=flat-square" alt="Frontend" />
+  <img src="https://img.shields.io/badge/Backend-Node.js_/_Rust_/_Python-339933?style=flat-square" alt="Backend" />
+  <img src="https://img.shields.io/badge/Tools-Docker_/_Git_/_Linux-2496ED?style=flat-square" alt="Tools" />
+</div>
