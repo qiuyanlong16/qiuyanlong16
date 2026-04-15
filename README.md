@@ -81,7 +81,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qiuyanlong16&theme=react-dark&line=58A6FF&point=58A6FF&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qiuyanlong16&theme=dracula&line=58A6FF&point=58A6FF&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 <p align="center">
