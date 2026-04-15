@@ -52,3 +52,22 @@
   <img src="https://img.shields.io/badge/Backend-Node.js_/_Rust_/_Python-339933?style=flat-square" alt="Backend" />
   <img src="https://img.shields.io/badge/Tools-Docker_/_Git_/_Linux-2496ED?style=flat-square" alt="Tools" />
 </div>
+
+---
+
+### 🚀 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/qiuyanlong16/openclaw-manager">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=qiuyanlong16&repo=openclaw-manager&theme=dracula&show_owner=true&border_radius=10" alt="openclaw-manager" />
+  </a>
+  <a href="https://github.com/qiuyanlong16/hermes-mutil-agent-devops-admin">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=qiuyanlong16&repo=hermes-mutil-agent-devops-admin&theme=dracula&show_owner=true&border_radius=10" alt="hermes-mutil-agent-devops-admin" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/qiuyanlong16/raspberry_by_smart_speaker">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=qiuyanlong16&repo=raspberry_by_smart_speaker&theme=dracula&show_owner=true&border_radius=10" alt="raspberry_by_smart_speaker" />
+  </a>
+</div>
