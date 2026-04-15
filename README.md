@@ -16,3 +16,17 @@
   <img src="https://img.shields.io/badge/-Frontend_Developer-61DAFB?style=flat-square&logo=react&logoColor=black" alt="Frontend Developer" />
   <img src="https://img.shields.io/badge/-Building_Cool_Stuff-FF6F61?style=flat-square" alt="Building Cool Stuff" />
 </p>
+
+---
+
+### 📊 Stats & Activity
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=qiuyanlong16&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiuyanlong16&layout=donut-vertical&theme=dracula&hide_border=true&langs_count=8" alt="Top Programming Languages by Commit" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qiuyanlong16&theme=dracula" alt="Profile Details" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=qiuyanlong16&theme=dracula" alt="Contribution Stats" />
+</div>
