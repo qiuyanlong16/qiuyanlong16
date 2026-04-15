@@ -71,3 +71,19 @@
     <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=qiuyanlong16&repo=raspberry_by_smart_speaker&theme=dracula&show_owner=true&border_radius=10" alt="raspberry_by_smart_speaker" />
   </a>
 </div>
+
+---
+
+### 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qiuyanlong16&theme=dracula" alt="Commit Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qiuyanlong16&theme=react-dark&line=58A6FF&point=58A6FF&area=true&hide_border=true" alt="Activity Graph" />
+</div>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="Rocket Animation" width="400" />
+</p>
