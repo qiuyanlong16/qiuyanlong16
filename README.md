@@ -87,3 +87,29 @@
 <p align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="Rocket Animation" width="400" />
 </p>
+
+---
+
+### 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://x.com/GlobalEye_X">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:qiuyanlong2016@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://qiuyanlong16.github.io/hermes-vs-openclaw/">
+    <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=github&logoColor=white" alt="Blog" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=qiuyanlong16&label=Profile+Views&color=58A6FF&style=flat-square" alt="Profile Views" />
+</div>
+
+<p align="center">
+  <strong>Thanks for stopping by! Happy coding! 🚀</strong>
+</p>
