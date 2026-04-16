@@ -8,9 +8,14 @@ TypeScript · Rust · Python · Node.js · C#
 
 ### Projects
 
-- **[openclaw-manager](https://github.com/qiuyanlong16/openclaw-manager)**
-- **[hermes-mutil-agent-devops-admin](https://github.com/qiuyanlong16/hermes-mutil-agent-devops-admin)**
-- **[raspberry_by_smart_speaker](https://github.com/qiuyanlong16/raspberry_by_smart_speaker)**
+---
+> **Life, lately**
+> - 📍 Working from a sunlit corner in Tianjin.
+> - 🌱 Growing basil, patience, and a side project.
+> - ☕ Fueled by long black and loose-leaf tea.
+> - 🎵 Soundtrack: keyboard clatter, distant traffic, and lo-fi beats.
+
+_“We are here to write the soft, quiet lines between the hard code.”_
 
 ---
 
