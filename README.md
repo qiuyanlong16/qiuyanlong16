@@ -1,12 +1,12 @@
-### Hi, There
+### Hi 
 Frontend & Software Developer. I build things for the web and beyond.
 
 TypeScript · Rust · Python · Node.js · C#
 
-
-
-### Projects
-
+---
+ 
+### There
+   
    **Life, lately**
   - 📍 Working from a sunlit corner in Tianjin.
   -  🌱 Growing basil, patience, and a side project.
@@ -16,7 +16,7 @@ TypeScript · Rust · Python · Node.js · C#
 _“We are here to write the soft, quiet lines between the hard code.”_
 
 
-
+---
 
 ### Connect
 
