@@ -3,17 +3,18 @@ Frontend & Software Developer. I build things for the web and beyond.
 
 TypeScript · Rust · Python · Node.js · C#
 
----
+
 
 ### Projects
 
-> **Life, lately**
-> - 📍 Working from a sunlit corner in Tianjin.
-> - 🌱 Growing basil, patience, and a side project.
-> - ☕ Fueled by long black and loose-leaf tea.
-> - 🎵 Soundtrack: keyboard clatter, distant traffic, and lo-fi beats.
+   **Life, lately**
+  - 📍 Working from a sunlit corner in Tianjin.
+  -  🌱 Growing basil, patience, and a side project.
+  - ☕ Fueled by long black and loose-leaf tea.
+  - 🎵 Soundtrack: keyboard clatter, distant traffic, and lo-fi beats.
 
 _“We are here to write the soft, quiet lines between the hard code.”_
+
 
 
 
