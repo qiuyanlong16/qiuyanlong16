@@ -20,4 +20,4 @@ _“We are here to write the soft, quiet lines between the hard code.”_
 
 ### Connect
 
-[X](https://x.com/GlobalEye_X) · [Email](mailto:qiuyanlong2016@gmail.com) · [Blog](https://qiuyanlong16.github.io/hermes-vs-openclaw/)
+[Email](mailto:qiuyanlong2016@gmail.com) · [Blog](https://qiuyanlong16.github.io/hermes-vs-openclaw/)
