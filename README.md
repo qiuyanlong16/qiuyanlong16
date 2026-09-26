@@ -13,7 +13,6 @@ Frontend & Software Developer. I build things for the web and beyond.
 | **Rust** 🦀 | █████░░░░░ | Intermediate |
 | **Linux** 🐧 | ███░░░░░░ | Learning & Exploring |
 
----
  
 ### There
    
