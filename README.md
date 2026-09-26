@@ -31,11 +31,8 @@ _“We are here to write the soft, quiet lines between the hard code.”_
  6. **Nobody cares about your code** : Users and clients care about functionality and results, not code elegance.
  7. **Burnout is real** : Protect your energy; prioritize rest and sustainable habits.
  8. **Coding is like a language**: You learn by "speaking" (coding) rather than just listening.
- 9. **Confidence is built by doing** (4:18): You get stronger over time through experience.
- 10. **Productivity is about sustainability** (7:48): Avoid the "grind" mindset and take regular breaks.
+ 9. **Confidence is built by doing**: You get stronger over time through experience.
+ 10. **Productivity is about sustainability** : Avoid the "grind" mindset and take regular breaks.
 
 ---
 
-### Connect
-
-[Email](mailto:qiuyanlong2016@gmail.com) · [Blog](https://qiuyanlong16.github.io/hermes-vs-openclaw/)
