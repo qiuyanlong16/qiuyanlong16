@@ -5,16 +5,14 @@ Frontend & Software Developer. I build things for the web and beyond.
 
 | Technology | Proficiency | Level |
 |---|---|---|
-| **C** ⭐ | █████████░ | Advanced |
-| **C#** | ████████░░ | Advanced |
+| **C** ⭐ | ██████░░░░ | Advanced |
+| **C#** | █████░░░░░ | Advanced |
 | **TypeScript** | ███████░░░ | Intermediate |
-| **Node.js** | ███████░░░ | Intermediate |
+| **Node.js** | ████████░░ | Intermediate |
 | **Python** | ███████░░░ | Intermediate |
 | **Rust** 🦀 | █████░░░░░ | Learning |
-| **Linux** 🐧 | █░░░░░░░░ | Learning & Exploring |
+| **Linux** 🐧 | ███░░░░░░ | Learning & Exploring |
 
-> **C is my favorite language.**  
-> Currently diving deeper into Linux, and learning how the OS works under the hood is genuinely fun. 🐧⚙️
 ---
  
 ### There
